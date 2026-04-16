@@ -5,7 +5,7 @@ const template = document.createElement("template")
 template.innerHTML = `<div>
                         <h1 style="color: hotpink">The cool application!</h1>
                         <textarea rows="20" cols="50" id="text"></textarea><br>
-                        <input type="button" value="To Rövarspråket" id="robber">
+                        <input type="button" value="To Rövarspråket!" id="robber">
                         <input type="button" value="To Allsprak" id="allsprak">
                         <input type="button" value="Reverse" id="reverse">
                       </div>`
