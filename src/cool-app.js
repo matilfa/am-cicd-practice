@@ -1,5 +1,6 @@
 import { toAllsprak, toRobber, toNormal } from "./translators.js"
 
+//Cool
 const template = document.createElement("template")
 template.innerHTML = `<div>
                         <h1>The cool application!</h1>
